@@ -9,21 +9,21 @@ Application allows user to create multiplayer session in VR where users can play
 ## Images
 Choose action menu:
 
-<img src="./images/menu.PNG">
+<img src="./images/menu.png">
 
 By pressing one of the front buttons on VR controller you can choose to exit the app or choose .mp4 file to play it on the screen.
 
 File dialog:
 
-<img src="./images/file_dialog.PNG">
+<img src="./images/file_dialog.png">
 
 Video on screen:
 
-<img src="./images/video.PNG">
+<img src="./images/video.png">
 
 
 Drawing: 
 
-<img src="./images/drawing.PNG">
+<img src="./images/drawing.png">
 
 By pressing and holding button on the back of your controller you can draw on the screen.
